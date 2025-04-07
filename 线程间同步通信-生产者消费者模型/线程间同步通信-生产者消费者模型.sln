@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线程间同步通信-生产者消费者模型", "线程间同步通信-生产者消费者模型.vcxproj", "{82A16A45-26C4-45EB-86A8-B2C9B95BFFFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A16A45-26C4-45EB-86A8-B2C9B95BFFFC}.Debug|x64.ActiveCfg = Debug|x64
+		{82A16A45-26C4-45EB-86A8-B2C9B95BFFFC}.Debug|x64.Build.0 = Debug|x64
+		{82A16A45-26C4-45EB-86A8-B2C9B95BFFFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{82A16A45-26C4-45EB-86A8-B2C9B95BFFFC}.Debug|x86.Build.0 = Debug|Win32
+		{82A16A45-26C4-45EB-86A8-B2C9B95BFFFC}.Release|x64.ActiveCfg = Release|x64
+		{82A16A45-26C4-45EB-86A8-B2C9B95BFFFC}.Release|x64.Build.0 = Release|x64
+		{82A16A45-26C4-45EB-86A8-B2C9B95BFFFC}.Release|x86.ActiveCfg = Release|Win32
+		{82A16A45-26C4-45EB-86A8-B2C9B95BFFFC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB72371-2D2E-4747-9698-DB7916B6DA32}
+	EndGlobalSection
+EndGlobal
